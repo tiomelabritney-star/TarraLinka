@@ -1,5 +1,5 @@
 # TarraLinka
-### Connecting Agriculture, Empowering Communicaties.
+### Connecting Agriculture, Empowering Communities.
 
 ## Project overview
 TarraLinka is a digital agricultural ecosystem 
